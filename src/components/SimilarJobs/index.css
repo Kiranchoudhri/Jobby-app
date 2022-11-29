@@ -1,0 +1,20 @@
+.similarJobsCard {
+  width: 25%;
+  margin-bottom: 24px;
+  padding: 30px;
+  background-color: #202020;
+  border-radius: 12px;
+  margin-right: 40px;
+  margin-bottom: 30px;
+}
+
+.similarDescription {
+  font-size: 24px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.similarDescriptionContainer {
+  margin-bottom: 30px;
+  color: #ffffff;
+}

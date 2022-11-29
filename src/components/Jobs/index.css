@@ -1,0 +1,126 @@
+.jobsPage {
+  background-color: #000000;
+  width: 100%;
+}
+.jobsContent {
+  padding: 40px 80px;
+  width: 100%;
+  display: flex;
+  list-style-type: none;
+}
+
+.searchAndJobsContainer {
+  margin-left: 30px;
+}
+.searchContainer {
+  width: 400px;
+  display: flex;
+  align-items: center;
+  padding: 6px 10px;
+  border: 1px solid #f1f5f9;
+  border-radius: 4px;
+}
+
+.searchInput {
+  background-color: transparent;
+  width: 100%;
+  padding: 6px;
+  border-width: 0px;
+  color: #ffffff;
+}
+.searchIcon {
+  color: #ffffff;
+  font-size: 24px;
+}
+.allJobsContainer {
+  list-style-type: none;
+  margin-top: 30px;
+}
+
+.employmentTypeList {
+  list-style: none;
+  padding-left: none;
+  color: #ffffff;
+}
+
+.employmentFilterSection {
+  color: #ffffff;
+  margin-top: 30px;
+}
+
+.employmentTitle {
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+.lineBreak {
+  border: 1px solid #b6c5ff;
+  margin-top: 24px;
+}
+
+.searchBtn {
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.retryBtn {
+  background-color: #4f46e5;
+  padding: 10px 24px;
+  color: #ffffff;
+  border-radius: 6px;
+  border-width: 0px;
+}
+.jobsFailureContainer {
+  color: #ffffff;
+}
+.failureImage {
+  width: 400px;
+  margin-bottom: 20px;
+}
+.failureHeading {
+  margin-bottom: 10px;
+}
+.failureInfo {
+  margin-bottom: 30px;
+}
+
+.loaderContainer {
+  height: 80vh;
+  width: 60vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.jobsFailureWrapper {
+  height: 80vh;
+  width: 60vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.jobsFailureContainer {
+  text-align: center;
+}
+
+.noJobsWrapper {
+  height: 80vh;
+  width: 60vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.noJobsContainer {
+  color: #ffffff;
+  text-align: center;
+}
+
+.noJobsImage {
+  width: 500px;
+  margin-bottom: 20px;
+}
+
+.noJobsHeading {
+  margin-bottom: 18px;
+  font-size: 30px;
+}

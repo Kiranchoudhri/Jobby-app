@@ -1,0 +1,37 @@
+.navHeader {
+  background-color: #202020;
+  padding: 20px 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.headerLogo {
+  width: 120px;
+}
+
+.navTitlesContainer {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+}
+
+.navLink {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.navTitle {
+  margin-right: 16px;
+}
+
+.logoutBtn {
+  padding: 10px 24px;
+  background-color: #4f46e5;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 4px;
+  cursor: pointer;
+}

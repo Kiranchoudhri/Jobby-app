@@ -1,0 +1,75 @@
+.linkContainer {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.jobCard {
+  margin-bottom: 24px;
+  padding: 30px;
+  background-color: #202020;
+  border-radius: 8px;
+}
+
+.companySection {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.companyLogo {
+  width: 60px;
+  margin-right: 8px;
+}
+.companyRating {
+  color: #ffffff;
+}
+.companyName {
+  margin-bottom: 8px;
+  font-size: 24px;
+}
+.ratingContainer {
+  display: flex;
+  align-items: center;
+}
+.ratingLogo {
+  color: #fbbf24;
+  font-size: 16px;
+  margin-right: 4px;
+}
+
+.packageWrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+
+.locationWrapper {
+  display: flex;
+  align-items: center;
+}
+.locationContainer,
+.employmentContainer {
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  margin-right: 10px;
+}
+.locationIcon {
+  font-size: 24px;
+  margin-right: 8px;
+}
+.internIcon {
+  font-size: 24px;
+  margin-right: 6px;
+}
+
+.descriptionContainer {
+  color: #ffffff;
+  margin-top: 20px;
+}
+.descriptionTitle {
+  margin-bottom: 16px;
+  font-size: 24px;
+}
